@@ -1,0 +1,41 @@
+@charset "utf-8";
+
+div {
+  display: table;
+}
+
+span {
+  display: table-cell;
+  text-align: center;
+  vertical-align: middle;
+}
+
+
+div#header {
+  background-color: yellow;
+  width: 900px;
+  height: 80px;
+}
+
+
+div#side {
+  background-color: blue;
+  float: left;
+  width: 280px;
+  height: 500px;
+}
+
+div#main {
+  background-color: green;
+  float: left;
+  width: 620px;
+  height: 500px;
+}
+
+div#footer {
+  background-color: cyan;
+  clear: both;
+  width: 900px;
+  height: 500px;
+}
+

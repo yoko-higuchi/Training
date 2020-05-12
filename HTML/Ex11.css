@@ -1,0 +1,15 @@
+@charset "utf-8";
+
+ul#menu {
+  margin: 0 0 5px 0;
+  width: 250px;
+  color: white;
+}
+
+li.odd {
+  background-color: #007F7F;
+}
+li.even {
+  background-color: #00007F;
+}
+

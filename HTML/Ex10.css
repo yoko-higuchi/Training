@@ -1,0 +1,8 @@
+@charset "utf-8";
+
+div#dep {
+  color : red;
+}
+span.name {
+  color : blue;
+}
